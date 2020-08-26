@@ -1,0 +1,1 @@
+console.log("everybody is gonna graduate, just do your own best!")
